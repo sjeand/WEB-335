@@ -1,2 +1,4 @@
-# WEB-335
-Web Development 335
+# WEB-335 Introduction to NoSQL
+## Contributors
+*Professor Krasso
+*Sarah Jean Baptiste 
